@@ -1,0 +1,3 @@
+php artisan make:model Empleado -mcr   
+php artisan route:list
+@csrf
